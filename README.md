@@ -44,17 +44,17 @@ Given any idea, the skill will:
 
 ```bash
 # Install globally (works across all projects)
-npx skills add <your-username>/StructuredThinkingSkill -g -y
+npx skills add RealKingDavid/StructuredThinkingSkill -g -y
 
 # Install to current project only
-npx skills add <your-username>/StructuredThinkingSkill -y
+npx skills add RealKingDavid/StructuredThinkingSkill -y
 ```
 
 ### Option 2: Manual Install
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/StructuredThinkingSkill.git
+git clone https://github.com/RealKingDavid/StructuredThinkingSkill.git
 
 # Copy to your agent's skills folder
 # For Claude Code:
